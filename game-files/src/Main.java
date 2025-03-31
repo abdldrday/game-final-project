@@ -12,6 +12,7 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
             System.out.println("fkdsofsjkdngjksn");
+            System.out.println("erwerwerwer");
         }
 
         System.out.println("Tima and Hashym");
